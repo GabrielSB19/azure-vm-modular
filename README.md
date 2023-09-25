@@ -39,6 +39,7 @@ Debemos de crear una carpeta que contenga los siguientes archivos
 - En cada folder creado anteriormente, debemos de crear los archivos main.tf, variables.tf, outputs.tf.
 
 Una vez hecho esto, nos quedaría una estructura de archivos como esta:
+
 ![Alt text](images/FolderStructure.png)
 
 ### Paso 2 
